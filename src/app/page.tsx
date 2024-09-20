@@ -1,3 +1,3 @@
-export default function Home() {
-  return <div className="text-red-500">Next JS</div>;
+export default async function Home() {
+  return <div className="text-red-500">Next JS Abdullah</div>;
 }
